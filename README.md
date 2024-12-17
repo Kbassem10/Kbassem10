@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kimobisso@gmail.com**
 
-- 📄 Know about my experiences [Flask, Python, Html, CSS, Javascript, Postgresql, Mysql, SQLite, C, C++](Flask, Python, Html, CSS, Javascript, Postgresql, Mysql, SQLite, C, C++)
+- 📄 Know about my experiences [Flask, Python, Html, CSS, Javascript, Postgresql, Mysql, SQLite, C, C++]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
