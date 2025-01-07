@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kbassem10](https://github.com/Kbassem10)
+- 👨‍💻 All of my projects are available at https://github.com/Kbassem10?tab=repositories
 
 - 📫 How to reach me **kimobisso@gmail.com**
 
