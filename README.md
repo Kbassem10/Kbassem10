@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Kbassem10?tab=repositories and also on https://github.com/orgs/Imhotep-Tech/repositories
 
-- 📫 How to reach me **kimobisso@gmail.com**
+- 📫 How to reach me **karimbassemj@gmail.com**
 
 - 📄 Know about my experiences [Flask, Python, Html, CSS, Javascript, Postgresql, Mysql, SQLite, C, C++]
 
