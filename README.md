@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science**.
 - 🚀 I enjoy building web applications and exploring new technologies.
-- 📫 How to reach me: **karimbassemj@gmail.com**
+- 📫 How to reach me: **k.bassem2397@nu.edu.eg**
 
 ---
 
@@ -38,8 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kbassem10&show_icons=true&theme=radical&rank_icon=github" alt="kbassem10 :: GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbassem10&layout=compact&theme=radical" alt="kbassem10 :: Top Langs" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=radical" alt="kbassem10 :: Contribution Graph" />
 </p>
