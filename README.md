@@ -48,7 +48,6 @@
     <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=radical" alt="kbassem10 :: Contribution Graph" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kbassem10&theme=radical&row=1&column=7" alt="kbassem10 :: Trophies" />
 </p>
 
 ---
