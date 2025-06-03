@@ -14,8 +14,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif">
-
 - 🎓 **Computer Science Student** passionate about technology
 - 💻 **Full‑Stack Developer** specializing in Django & modern web tech
 - 🌱 Currently exploring **AI/ML, Cloud Computing & Quantum Computing**
@@ -47,7 +45,6 @@
 ### 🔧 Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,7 +56,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -94,8 +90,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbassem10&repo=your-main-project&theme=radical)](https://github.com/kbassem10/your-main-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbassem10&repo=another-project&theme=radical)](https://github.com/kbassem10/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Imhotep-Tech&repo=imhotep_smart_clinic&theme=radical)](https://github.com/Imhotep-Tech/imhotep_smart_clinic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Imhotep-Tech&repo=imhotep_finance&theme=radical)](https://github.com/Imhotep-Tech/imhotep_finance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbassem10&repo=XO&theme=radical)](https://github.com/Kbassem10/XO)
 
 </div>
 
