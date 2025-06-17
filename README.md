@@ -69,10 +69,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbassem10&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=radical&area=true&hide_border=true" width="100%"/>
 </div>
 
