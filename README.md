@@ -19,9 +19,9 @@
 
 - 🎓 **Computer Science Student** at Nile University with a passion for innovation
 - 💻 **Full-Stack Developer** specializing in **React** & **Django** ecosystems
-- 🌱 Currently diving deep into **AI/ML**, **Cloud Computing** & **Quantum Computing**
+- 🌱 Currently diving deep into **AI/ML**, **Cloud Computing** , **Quantum Computing** & **Odoo Dev**
 - 🔭 Working on **scalable web applications** and contributing to **open-source projects**
-- 🎯 **2024 Goals:** Master cloud technologies, contribute to major OSS projects
+- 🎯 **2025 Goals:** Master cloud technologies, contribute to major OSS projects
 - 🌐 **Portfolio:** [imhoteptech.vercel.app](https://imhoteptech.vercel.app/about_me.html)
 - 📧 **Contact:** k.bassem2397@nu.edu.eg
 - 🔮 **Future Vision:** OS Development & Quantum Computing Research  
@@ -41,7 +41,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚛️ Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,23 +52,18 @@
 
 ### 🔧 Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
 ---
@@ -118,43 +112,6 @@
 
 ---
 
-## 🎯 Current Focus & Learning Path
-
-```yaml
-2024_roadmap:
-  current_projects:
-    - "🔥 Building scalable React + Django applications"
-    - "🤖 Integrating AI/ML capabilities in web apps"
-    - "☁️ Learning AWS, Docker & Kubernetes"
-    - "📱 Exploring React Native for mobile development"
-  
-  learning_goals:
-    - "Advanced React patterns & performance optimization"
-    - "Microservices architecture with Django"
-    - "Cloud deployment & DevOps practices"
-    - "Quantum computing fundamentals"
-  
-  contributions:
-    - "📚 Contributing to open-source React & Django projects"
-    - "✍️ Writing technical blogs & tutorials"
-    - "🎤 Preparing for tech talks & workshops"
-```
-
----
-
-## 📈 Weekly Development Breakdown
-
-```text
-React         ████████████████████░░░░░   80%
-Django        ██████████████████░░░░░░░   75%
-JavaScript    ███████████████░░░░░░░░░░   65%
-Python        ████████████████░░░░░░░░░   70%
-CSS/Tailwind  ██████████████░░░░░░░░░░░   60%
-TypeScript    ███████████░░░░░░░░░░░░░░   45%
-```
-
----
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -187,7 +144,5 @@ TypeScript    ███████████░░░░░░░░░░░
   <br>
   <i>⭐ Don't forget to star repositories you find interesting!</i>
   <br><br>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{kbassem10}/count.svg)
   
 </div>
