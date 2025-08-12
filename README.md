@@ -75,36 +75,11 @@
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kbassem10&layout=compact&langs_count=10&theme=tokyonight&border_radius=20"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbassem10&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kbassem10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
-
----
-
-## 📂 Featured Projects & Repositories
-
-<div align="center">
-
-### 🌟 Personal Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kbassem10&repo=XO&theme=tokyonight&border_radius=10)](https://github.com/Kbassem10/XO)
-
-### 🏢 Imhotep Tech Organization
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Imhotep-Tech&repo=imhotep_smart_clinic&theme=tokyonight&border_radius=10)](https://github.com/Imhotep-Tech/imhotep_smart_clinic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Imhotep-Tech&repo=imhotep_finance&theme=tokyonight&border_radius=10)](https://github.com/Imhotep-Tech/imhotep_finance)
-
-</div>
 
 ### 📁 Explore More
 - **💼 All Personal Projects:** [github.com/Kbassem10?tab=repositories](https://github.com/Kbassem10?tab=repositories)
@@ -122,12 +97,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.bassem2397@nu.edu.eg)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kbassem10)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
