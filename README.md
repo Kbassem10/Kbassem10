@@ -70,11 +70,6 @@
 
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kbassem10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kbassem10&layout=compact&langs_count=10&theme=tokyonight&border_radius=20"/>
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
