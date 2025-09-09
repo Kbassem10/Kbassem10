@@ -22,7 +22,7 @@
 - 🌱 Currently diving deep into **AI/ML**, **Cloud Computing** , **Quantum Computing** & **Odoo Dev**
 - 🔭 Working on **scalable web applications** and contributing to **open-source projects**
 - 🎯 **2025 Goals:** Master cloud technologies, contribute to major OSS projects
-- 🌐 **Portfolio:** [imhoteptech.vercel.app](https://imhoteptech.vercel.app/about_me.html)
+- 🌐 **Portfolio:** [imhoteptech.vercel.app](https://imhoteptech.vercel.app/)
 - 📧 **Contact:** k.bassem2397@nu.edu.eg
 - 🔮 **Future Vision:** OS Development & Quantum Computing Research  
 - ⚡ **Fun fact:** I debug with coffee and deploy with confidence! ☕
