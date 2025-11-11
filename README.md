@@ -25,7 +25,6 @@
 - 🌐 **Portfolio:** [kbassem.vercel.app](https://kbassem.vercel.app/)
 - 📧 **Contact:** k.bassem2397@nu.edu.eg
 - 🔮 **Future Vision:** OS Development & Quantum Computing Research  
-- ⚡ **Fun fact:** I debug with coffee and deploy with confidence! ☕
 
 <br clear="both"/>
 
