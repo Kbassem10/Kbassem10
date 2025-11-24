@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Karim+Bassem;Full-Stack+Web+Developer;React+%26+Django+Specialist;Building+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Karim+Bassem;Full-Stack+Web+Developer;Django+Specialist;Building+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Passionate about creating scalable web applications & exploring cutting-edge technologies 🚀</h3>
