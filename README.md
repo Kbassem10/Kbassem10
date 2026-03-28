@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+I'm+Karim+Bassem;Building+Scalable+Backend+Systems;Deployed+Apps+Serving+500%2B+Users;Remote-Ready+Developer+(Django+%2F+React)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+I'm+Karim+Bassem;Founder+of+Imhotep+Tech;Building+Scalable+Backend+Systems;Deployed+Apps+Serving+500%2B+Users;Remote-Ready+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Transforming Business Logic into Production-Ready Software 🚀</h3>
@@ -15,17 +15,21 @@
 
 ---
 
+> 🏢 **Where is my code?** > Most of my production-grade projects, SaaS products, and open-source tools are hosted under my organization, **[Imhotep Tech](https://github.com/Imhotep-Tech)**. Head over there to see my latest architecture and deployment workflows!
+
+---
+
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I am a **Software Developer** and **Computer Science Student** (Top 10%, 3.97 GPA) bridging the gap between academic theory and commercial deployment. I don't just write code; I ship products that solve real-world problems.
+I am a **Software Developer**, **Computer Science Student** (Top 10%, 3.98 GPA), and the **Founder of Imhotep Tech**. I bridge the gap between academic theory and commercial deployment, focusing on shipping products that solve real-world problems.
 
 - 🏗️ **Production Experience:** Architected and deployed a customer retention platform serving **500+ active users**.
 - 🛠️ **Tech Stack:** Specialized in **Python (Django/Flask)**, **React**, and **Docker** workflows.
+- 🏢 **Leadership:** Leading development and building self-hostable open-source tools at **[Imhotep Tech](https://github.com/Imhotep-Tech)**.
 - 🌍 **Remote-Ready:** Proficient in asynchronous collaboration using **Git**, **Swagger API Documentation**, and **Linux** environments.
-- 🔭 **Current Focus:** Building self-hostable open-source tools under my alias **[Imhotep Tech](https://github.com/orgs/Imhotep-Tech/repositories)**.
-- 💼 **Open for:** Remote Junior Developer roles & High-impact Contracts.
+- 💼 **Open for:** Remote Developer roles & High-impact Contracts.
 
 <br clear="both"/>
 
@@ -74,6 +78,7 @@ I am a **Software Developer** and **Computer Science Student** (Top 10%, 3.97 GP
 
 <div align="center">
 
+[![Imhotep Tech](https://img.shields.io/badge/Imhotep_Tech-Organization-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imhotep-Tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimbassem/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.bassem2397@nu.edu.eg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://kbassem.vercel.app/)
