@@ -1,37 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+I'm+Karim+Bassem;Founder+of+Imhotep+Tech;Building+Scalable+Backend+Systems;Deployed+Apps+Serving+500%2B+Users;Remote-Ready+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=Karim%20Bassem&subtitle=Founder%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20CS%20Academic&fontSize=42&subtitleAlignY=68&fontColor=ffffff&fontAlignY=38" width="100%" alt="Header Banner" />
+  
+  <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=70&lines=Founder+of+Imhotep+Tech;Building+Scalable+Backend+Systems;Deployed+Apps+Serving+500%2B+Users;Top+10%25+Computer+Science+Student;Remote-Ready+Software+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Transforming Business Logic into Production-Ready Software 🚀</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kbassem10&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kbassem10?label=Followers&style=for-the-badge&color=00D9FF" alt="followers" />
-  <img src="https://img.shields.io/github/stars/kbassem10?label=Stars&style=for-the-badge&color=00D9FF" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=kbassem10&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kbassem10?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kbassem10?label=Stars&style=for-the-badge&color=00D9FF" alt="Stars" />
   <a href="https://linkedin.com/in/karimbassem">
-    <img src="https://img.shields.io/badge/Hire_Me-Remote-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/Hire_Me-Remote-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
   </a>
 </div>
 
 ---
 
-> 🏢 **Where is my code?** > Most of my production-grade projects, SaaS products, and open-source tools are hosted under my organization, **[Imhotep Tech](https://github.com/Imhotep-Tech)**. Head over there to see my latest architecture and deployment workflows!
+### 📖 Executive Summary
+
+> 🏢 **Where is my code?**
+> Most of my production-grade projects, enterprise applications, and open-source tools are hosted under my organization, **[Imhotep Tech](https://github.com/Imhotep-Tech)**. Head over there to explore my architectural blueprints, API designs, and deployment configurations!
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a highly driven <b>Software Developer</b>, <b>Computer Science Student</b> (ranking in the <b>Top 10%</b> with a <b>3.98 GPA</b>), and the <b>Founder of Imhotep Tech</b>. I specialize in bridging the gap between clean theoretical architecture and commercial, highly-available deployments.</p>
+      <ul>
+        <li>🏗️ <b>Production Footprint:</b> Architected and deployed end-to-end customer retention software currently serving <b>500+ active users</b>.</li>
+        <li>🛠️ <b>Architectural Focus:</b> Dedicated to building scalable backend APIs, optimizing database performance, and designing modern containerized microservices.</li>
+        <li>🏢 <b>Leadership & Community:</b> Directing product development and maintaining self-hostable open-source solutions at Imhotep Tech.</li>
+        <li>🌍 <b>Remote-Ready & Collaborative:</b> Experienced with distributed team workflows, utilizing Git/GitHub, Docker, Linux systems, and OpenAPI/Swagger specifications.</li>
+      </ul>
+      <p>🎯 <i>Currently open to remote engineering roles, backend contracts, and collaborative open-source ventures.</i></p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 10px; max-width: 320px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-I am a **Software Developer**, **Computer Science Student** (Top 10%, 3.98 GPA), and the **Founder of Imhotep Tech**. I bridge the gap between academic theory and commercial deployment, focusing on shipping products that solve real-world problems.
+---
 
-- 🏗️ **Production Experience:** Architected and deployed a customer retention platform serving **500+ active users**.
-- 🛠️ **Tech Stack:** Specialized in **Python (Django/Flask)**, **React**, and **Docker** workflows.
-- 🏢 **Leadership:** Leading development and building self-hostable open-source tools at **[Imhotep Tech](https://github.com/Imhotep-Tech)**.
-- 🌍 **Remote-Ready:** Proficient in asynchronous collaboration using **Git**, **Swagger API Documentation**, and **Linux** environments.
-- 💼 **Open for:** Remote Developer roles & High-impact Contracts.
+## 🏛️ Featured Organization: Imhotep Tech
 
-<br clear="both"/>
+<div align="center">
+  <a href="https://github.com/Imhotep-Tech">
+    <img src="https://img.shields.io/badge/Imhotep_Tech-Open%20Source%20Collective-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Imhotep Tech" />
+  </a>
+  <p><i>Designing robust, privacy-first, self-hostable tools to simplify enterprise complexity.</i></p>
+</div>
+
+* **Focus Areas:** Scalable APIs, enterprise logic integration, high-performance database indexing, and container orchestration.
+* **Core Goal:** Creating lightweight, cloud-native alternatives to bloated enterprise platforms.
 
 ---
 
@@ -39,37 +64,39 @@ I am a **Software Developer**, **Computer Science Student** (Top 10%, 3.98 GPA),
 
 <div align="center">
 
-### 🧠 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🏗️ Backend & Architecture
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🚀 DevOps & Tools (Remote Essentials)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+| Category | Technologies |
+| :--- | :--- |
+| **🧠 Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **🏗️ Backend & Architecture** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **⚛️ Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **🚀 DevOps & Workflow** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 </div>
 
 ---
 
-## 📊 Consistency & Impact
+## 🏆 Github Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kbassem10&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Github Trophies" />
+</div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+---
+
+## 📊 Github Performance Metrics
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=kbassem10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbassem10&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -77,15 +104,22 @@ I am a **Software Developer**, **Computer Science Student** (Top 10%, 3.98 GPA),
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-
-[![Imhotep Tech](https://img.shields.io/badge/Imhotep_Tech-Organization-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imhotep-Tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimbassem/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.bassem2397@nu.edu.eg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://kbassem.vercel.app/)
-
+  <a href="https://github.com/Imhotep-Tech">
+    <img src="https://img.shields.io/badge/Imhotep_Tech-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Imhotep Tech" />
+  </a>
+  <a href="https://www.linkedin.com/in/karimbassem/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:k.bassem2397@nu.edu.eg">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kbassem.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_Projects-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
+<br />
+
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=30&fontColor=white&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Keep%20Coding%20%E2%80%A2%20Keep%20Building&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer Banner" />
 </div>
