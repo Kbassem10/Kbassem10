@@ -13,13 +13,15 @@
   <a href="https://linkedin.com/in/karimbassem">
     <img src="https://img.shields.io/badge/Hire_Me-Remote-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
   </a>
+  <a href="https://kbassem.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
----
+<br />
 
-### 📖 Executive Summary
-
-> 🏢 **Where is my code?**
+> [!IMPORTANT]
+> 🏢 **Where is my code?**  
 > Most of my production-grade projects, enterprise applications, and open-source tools are hosted under my organization, **[Imhotep Tech](https://github.com/Imhotep-Tech)**. Head over there to explore my architectural blueprints, API designs, and deployment configurations!
 
 ---
@@ -30,6 +32,13 @@
   <tr>
     <td width="60%" valign="top">
       <p>I am a highly driven <b>Software Developer</b>, <b>Computer Science Student</b> (ranking in the <b>Top 10%</b> with a <b>3.98 GPA</b>), and the <b>Founder of Imhotep Tech</b>. I specialize in bridging the gap between clean theoretical architecture and commercial, highly-available deployments.</p>
+      
+      <p>
+        <img src="https://img.shields.io/badge/GPA-3.98%2F4.0-00D9FF?style=flat-square&logo=academic&logoColor=black" alt="GPA" />
+        <img src="https://img.shields.io/badge/Rank-Top_10%25-38BDF8?style=flat-square" alt="Rank" />
+        <img src="https://img.shields.io/badge/Users-500%2B_Active-0077B5?style=flat-square" alt="Users" />
+      </p>
+
       <ul>
         <li>🏗️ <b>Production Footprint:</b> Architected and deployed end-to-end customer retention software currently serving <b>500+ active users</b>.</li>
         <li>🛠️ <b>Architectural Focus:</b> Dedicated to building scalable backend APIs, optimizing database performance, and designing modern containerized microservices.</li>
@@ -39,7 +48,7 @@
       <p>🎯 <i>Currently open to remote engineering roles, backend contracts, and collaborative open-source ventures.</i></p>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 10px; max-width: 320px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 12px; max-width: 320px; border: 1px solid rgba(255,255,255,0.1);" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -48,15 +57,35 @@
 
 ## 🏛️ Featured Organization: Imhotep Tech
 
-<div align="center">
-  <a href="https://github.com/Imhotep-Tech">
-    <img src="https://img.shields.io/badge/Imhotep_Tech-Open%20Source%20Collective-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Imhotep Tech" />
-  </a>
-  <p><i>Designing robust, privacy-first, self-hostable tools to simplify enterprise complexity.</i></p>
-</div>
-
-* **Focus Areas:** Scalable APIs, enterprise logic integration, high-performance database indexing, and container orchestration.
-* **Core Goal:** Creating lightweight, cloud-native alternatives to bloated enterprise platforms.
+<table border="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 16px;">
+      <a href="https://github.com/Imhotep-Tech">
+        <img src="https://img.shields.io/badge/Imhotep_Tech-Open%20Source%20Collective-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Imhotep Tech" />
+      </a>
+      <br /><br />
+      <p><i>"Designing robust, privacy-first, self-hostable tools to simplify enterprise complexity."</i></p>
+      <hr style="border: 0; border-top: 1px solid #30363d;" />
+      <table border="0" width="100%">
+        <tr>
+          <td width="50%" valign="top">
+            🎯 <b>Focus Areas:</b>
+            <ul>
+              <li>Scalable APIs & Backend Architecture</li>
+              <li>Enterprise logic integration</li>
+              <li>High-performance database indexing</li>
+              <li>Container orchestration & DevOps</li>
+            </ul>
+          </td>
+          <td width="50%" valign="top">
+            🚀 <b>Core Goal:</b>
+            <p>Creating lightweight, cloud-native alternatives to bloated enterprise platforms with self-hostable architecture and complete data privacy.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,25 +93,26 @@
 
 <div align="center">
 
-| Category | Technologies |
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **🧠 Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **🏗️ Backend & Architecture** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **⚛️ Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
-| **🚀 DevOps & Workflow** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **🧠 Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **🏗️ Backend & Architecture** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **⚛️ Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **🚀 DevOps & Workflow** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
 
 </div>
 
 ---
 
-## 🏆 Github Trophies
+## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kbassem10&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Github Trophies" />
 </div>
 
 ---
 
-## 📊 Github Performance Metrics
+## 📊 GitHub Performance Metrics
 
 <table border="0" width="100%">
   <tr>
@@ -95,7 +125,9 @@
   </tr>
 </table>
 
-<div align="center" style="margin-top: 15px;">
+<br />
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbassem10&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
